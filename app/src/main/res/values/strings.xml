@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HundredEuros</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_tap_to_continue">Berühre den Schein um zu sehen was er wert ist ...</string>
+    <string name="hint_wait">Bitte warten ...</string>
+    <string name="btnContinue">Weiter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <plurals name="hint_wait_time">
+        <item quantity="one">In 1 Sekunde geht es weiter!</item>
+        <item quantity="other">In %d Sekunden geht es weiter!</item>
+    </plurals>
+
+</resources>
